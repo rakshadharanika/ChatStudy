@@ -77,8 +77,8 @@ Client-server chat applications are foundational to real-time communication over
 
 ## program 
 ```
-NAME V RAKSHA DHARANIKA
-REF NO 212223230167
+NAME   : V RAKSHA DHARANIKA
+REF NO : 212223230167
 ```
 
 ### CLIENT CODE
